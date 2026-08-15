@@ -8,11 +8,12 @@
 
 Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M + 0.20 × 1Y`**, percentile ranked from `1` (worst) to `99` (best).
 
-- 🟢 **RS ≥ 80:** Market Leading Groups (Institutional Accumulation Zone)
-- 🟡 **RS 31–79:** Neutral / In-Line Performance
-- 🔴 **RS ≤ 30:** Severe Laggards (Institutional Distribution Zone)
+- 🟢 **RS ≥ 80:** Market Leading Groups (Institutional Accumulation)
+- 🟡 **RS 31–79:** In-Line Performance
+- 🔴 **RS ≤ 30:** Severe Laggards (Institutional Distribution)
 
 ### 🟢 Top 10 Industry Leaders (Highest RS Rating)
+
 
 | Rank | Ticker | Fund Name | Sector | IBD RS Rating |
 | :---: | :---: | :--- | :--- | :---: |
@@ -28,6 +29,7 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 10 | `FSCSX` | Select Software & IT Services | Information Technology | 🟡 72 |
 
 ### 🔴 Bottom 10 Industry Laggards (Lowest RS Rating)
+
 
 | Rank | Ticker | Fund Name | Sector | IBD RS Rating |
 | :---: | :---: | :--- | :--- | :---: |
@@ -50,6 +52,7 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 
 #### 🟢 Past 3 Months — Top 10 Leaders
 
+
 | Rank | Ticker | Fund Name | Sector | Past 3 Months Return |
 | :---: | :---: | :--- | :--- | ---: |
 | 1 | `FSMEX` | Select Medical Tech & Devices | Health Care | 🟢 `+25.13%` |
@@ -64,6 +67,7 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 10 | `FSPCX` | Select Insurance | Financials | 🟢 `+14.88%` |
 
 #### 🔴 Past 3 Months — Top 10 Laggards
+
 
 | Rank | Ticker | Fund Name | Sector | Past 3 Months Return |
 | :---: | :---: | :--- | :--- | ---: |
@@ -83,6 +87,7 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 
 #### 🟢 Past 6 Months — Top 10 Leaders
 
+
 | Rank | Ticker | Fund Name | Sector | Past 6 Months Return |
 | :---: | :---: | :--- | :--- | ---: |
 | 1 | `FDCPX` | Select Tech Hardware | Information Technology | 🟢 `+53.26%` |
@@ -97,6 +102,7 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 10 | `FIDSX` | Select Financials | Financials | 🟢 `+16.75%` |
 
 #### 🔴 Past 6 Months — Top 10 Laggards
+
 
 | Rank | Ticker | Fund Name | Sector | Past 6 Months Return |
 | :---: | :---: | :--- | :--- | ---: |
@@ -116,6 +122,7 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 
 #### 🟢 Past 1 Year — Top 10 Leaders
 
+
 | Rank | Ticker | Fund Name | Sector | Past 1 Year Return |
 | :---: | :---: | :--- | :--- | ---: |
 | 1 | `FDCPX` | Select Tech Hardware | Information Technology | 🟢 `+101.02%` |
@@ -130,6 +137,7 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 10 | `FSDAX` | Select Defense and Aerospace | Industrials | 🟢 `+29.06%` |
 
 #### 🔴 Past 1 Year — Top 10 Laggards
+
 
 | Rank | Ticker | Fund Name | Sector | Past 1 Year Return |
 | :---: | :---: | :--- | :--- | ---: |
@@ -149,6 +157,7 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 
 #### 🟢 Past 3 Years — Top 10 Leaders
 
+
 | Rank | Ticker | Fund Name | Sector | Past 3 Years Return |
 | :---: | :---: | :--- | :--- | ---: |
 | 1 | `FSELX` | Select Semiconductors | Information Technology | 🟢 `+265.75%` |
@@ -163,6 +172,7 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 10 | `FSLEX` | Select Environment & Alt Energy | Energy | 🟢 `+77.72%` |
 
 #### 🔴 Past 3 Years — Top 10 Laggards
+
 
 | Rank | Ticker | Fund Name | Sector | Past 3 Years Return |
 | :---: | :---: | :--- | :--- | ---: |
@@ -184,6 +194,7 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 
 <details>
 <summary><b>Click here to view all 33 Fidelity Select Funds</b></summary>
+
 
 
 | Rank | RS | Ticker | Fund Name | Sector | NAV | 1M | 3M | 6M | 1Y | 3Y |
@@ -221,6 +232,7 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 31 | 🔴 **10** | `FSHOX` | Select Construction & Housing | Consumer Discretionary | $125.30 | 🟢 `+1.42%` | 🟢 `+1.45%` | 🔴 `-6.65%` | 🟢 `+3.15%` | 🟢 `+39.62%` |
 | 32 | 🔴 **7** | `FSAVX` | Select Automotive | Consumer Discretionary | $55.31 | 🟢 `+3.69%` | 🔴 `-0.75%` | 🔴 `-6.20%` | 🟢 `+4.05%` | 🟢 `+24.38%` |
 | 33 | 🔴 **4** | `FSUTX` | Select Utilities | Utilities | $132.52 | 🔴 `-3.82%` | 🔴 `-3.90%` | 🔴 `-5.15%` | 🟢 `+5.76%` | 🟢 `+56.08%` |
+
 
 </details>
 
