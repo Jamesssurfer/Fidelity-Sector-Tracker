@@ -29,6 +29,7 @@
         <a href="#ibd-rs" class="px-3 py-1.5 rounded text-sm font-medium text-gray-700 bg-gray-100 hover:bg-gray-200 whitespace-nowrap">🏆 IBD RS Leaderboard</a>
         <a href="#multi-timeframe" class="px-3 py-1.5 rounded text-sm font-medium text-gray-700 bg-gray-100 hover:bg-gray-200 whitespace-nowrap">⏱ Multi-Timeframe</a>
         <a href="#biggest-movers" class="px-3 py-1.5 rounded text-sm font-medium text-gray-700 bg-gray-100 hover:bg-gray-200 whitespace-nowrap">🔥 Biggest Movers</a>
+        <a href="#missing-date" class="px-3 py-1.5 rounded text-sm font-medium text-gray-700 bg-gray-100 hover:bg-gray-200 whitespace-nowrap">📅 Missing Date</a>
         <a href="#master-table" class="px-3 py-1.5 rounded text-sm font-medium text-gray-700 bg-gray-100 hover:bg-gray-200 whitespace-nowrap">📋 Master Table</a>
     </nav>
     
@@ -482,7 +483,9 @@
 </div>
 </div>
 </div>
-
+<h2 id="missing-date" class="text-xl font-bold text-gray-900 mb-2 mt-8">📅 Missing Date — Isolated Gaps in the Last 20 Trading Days</h2>
+<p class="text-sm text-gray-500 italic mb-4">Dates within the last 20 trading sessions where a fund has no NAV despite trading normally before and after. A date affecting 30% or more of eligible funds at once is reported as a single market-wide line rather than repeated per fund. This does not affect RS rankings - return calculations already step over a single missing day using the nearest available price.</p>
+<div class="px-4 py-3 rounded-lg border text-sm" style="background-color:#F0FDF4;border-color:#86EFAC;color:#166534;">✅ No data gaps found in the last 20 trading days.</div>
     <details id="master-table" class="mt-8 bg-white rounded-lg shadow overflow-hidden">
         <summary class="px-4 py-3 bg-gray-800 text-white font-semibold text-sm cursor-pointer select-none">📋 Complete Master Table — click to expand (all 33 funds)</summary>
         <div class="p-4"><div class="overflow-x-auto rounded-lg border border-gray-200">
